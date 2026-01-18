@@ -1,42 +1,48 @@
-# 🚀 CanSat – projekt licealistów
+# 🚀 CanSat – a high school students’ project
 
-Jesteśmy zespołem licealistów, którzy postanowili wysłać **coś w kosmos**.  
-A przynajmniej jak najwyżej 🚀
+We are a team of high school students who decided to send **something into space**.  
+Or at least as high as possible 🚀
 
-Lutujemy, testujemy i czasem coś działa 🤖  
-Trochę fizyki, trochę chaosu i dużo pasji 🔬
-
----
-
-## 🛰️ O projekcie
-
-CanSat to minisatelita w formacie puszki po napoju.  
-Projekt polega na zaprojektowaniu, zbudowaniu i przetestowaniu kompletnego systemu pomiarowego.
-
-Projekt obejmuje:
-- elektronikę i czujniki
-- oprogramowanie mikrokontrolera
-- zbieranie i analizę danych
-- testy naziemne i lotne
+We solder, we test, and sometimes things actually work 🤖  
+A bit of physics, a bit of chaos, and a lot of passion 🔬
 
 ---
 
-## 📂 Zawartość repozytorium
+## 🛰️ About the project
 
-W repozytorium znajdują się:
-- kod źródłowy CanSata
-- schematy i dokumentacja techniczna
-- materiały testowe i pomiarowe
-- notatki i postępy prac
+CanSat is a mini satellite in the form factor of a soda can.  
+The project focuses on designing, building, and testing a complete measurement system.
 
----
-
-## 👥 Zespół
-
-Zespół licealistów z pasją do kosmosu, inżynierii i technologii.  
-Jeśli coś nie działa — naprawiamy.  
-Jeśli działa — sprawdzamy, dlaczego 😉
+The project includes:
+- electronics and sensors
+- microcontroller software
+- data collection and analysis
+- ground and flight testing
 
 ---
 
-> *Trochę fizyki, trochę chaosu i dużo pasji.* 🚀
+## 📂 Repository contents
+
+This repository contains:
+- CanSat source code
+- schematics and technical documentation
+- test and measurement data
+- project notes and progress updates
+
+---
+
+## 👥 The team
+
+A team of high school students passionate about space, engineering, and technology.  
+If something doesn’t work — we fix it.  
+If it does work — we figure out why 😉
+
+---
+
+## ⭐ Project status
+
+Project in progress.
+
+---
+
+> *A bit of physics, a bit of chaos, and a lot of passion.* 🚀
