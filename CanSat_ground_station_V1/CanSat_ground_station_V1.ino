@@ -25,7 +25,6 @@ double gs_lat, gs_lon, gs_alt;
 // Pozycja CanSata 
 double sat_lat, sat_lon, sat_alt;
 
-// ===================== IMU ======================
 BNO085 imu;
 
 // ===================== SETUP =====================
@@ -50,7 +49,7 @@ void setup() {
   Serial.println("stacja gotowa :>");
 }
 
-// ===================== LOOP =====================
+// ===================== pętla =====================
 void loop() {
 
   while (gpsSerial.available()) {
@@ -87,7 +86,7 @@ void loop() {
   delay(200);
 }
 
-// ===================== FUNKCJE =====================
+// ===================== definicje =====================
 
 float getCompassHeading() {
   if (imu.dataAvailable()) {
